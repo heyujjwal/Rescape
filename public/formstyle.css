@@ -1,5 +1,6 @@
 body {
   background-color: #e2e2e2;
+  font-size: x-large;
 }
 /* #cv-form {
   /* display: none; */
@@ -15,5 +16,21 @@ body {
 }
 
 .background {
-  background-color: grey;
+  background-color: rgb(0, 0, 0);
+}
+
+h3{
+  color: white;
+}
+#nameT1{
+  color: white;
+}
+#contactT{
+  color: white;
+}
+#addressT{
+  color: white;
+}
+.btn background{
+  color: white;
 }

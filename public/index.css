@@ -185,14 +185,16 @@ section div.texts p{
 }
 
 .media.s-1 img{
-    width: 400px;
+    width: 407px;
 }
 
-.media.s-1 video {
-    width: 293px;
+.media.s-1 .res {
+    width: 298px;
+    height: 168px;
     position: absolute;
     top: 62px;
     left: 52px;
+    
 }
 .evenSection{
     background-color: #fff;
@@ -373,12 +375,12 @@ div.faq p {
     width: 100%;
     height: 100%;
     text-align: center;
-    transition: transform 1s;
+    transition: transform 2s;
     transform-style: preserve-3d;
 }
-/* .flip-card:hover .flip-card-inner{
+.flip-card:hover .flip-card-inner{
     transform: rotateY(180deg);
-} */
+}
 .flip-card:active .flip-card-inner{
     transform: rotateY(180deg);
 }
@@ -450,14 +452,14 @@ div.faq p {
     width: 100%;
     height: 100%;
     text-align: center;
-    transition: transform 1s;
+    transition: transform 2s;
     transform-style: preserve-3d;
 }
 /* .flip-card-1:hover .flip-card-inner-1{
     transform: rotateY(120deg);
 } */
-/* .flip-card-1:hover .flip-card-inner-1{
-    transform: rotateY(180deg); */
+.flip-card-1:hover .flip-card-inner-1{
+    transform: rotateY(180deg);}
     .flip-card-1:active .flip-card-inner-1{
         transform: rotateY(180deg);
     }

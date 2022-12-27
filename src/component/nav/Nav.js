@@ -20,10 +20,10 @@ const Nav = () => {
             src='https://www.pngfind.com/pngs/m/625-6256136_rockstar-games-logo-png-png-download-rockstar-games.png'
           />
           <div className='nav_links'>
-            <a href='/'> HOME </a>
-            <a href='/'> RESUMEs </a>
-            <a href='/'> CVs </a>
-            <a href='/'> MY RESUMEs</a>
+            <a href='http://localhost:3000'> HOME </a>
+            <a href='form.html'> RESUMEs </a>
+            <a href='formcv.html'> CVs </a>
+            <a href='tips.html'>Tips of creating good resume</a>
             <a href='/'> FAQs </a>
             
           </div>
